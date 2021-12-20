@@ -108,3 +108,45 @@ body {
     margin: 0;
     font-size: 15px;
 }
+@media (max-width:950px) {
+    .geral{
+        width:90%;
+}
+
+@media (max-width:770px) {
+    .geral {
+        width: 90%;
+    }
+}
+
+@media (max-width:425px) {
+    .geral {
+        height: auto;
+        flex-direction: column;
+    }
+    .left {
+        padding-bottom: 10px;
+    }
+
+    .right {
+        margin-bottom: 20px;
+    }
+    .right_form .accept p {
+        padding-left: 10px;
+        padding-right: 15px;
+    }
+}
+
+@media (max-width:320px) {
+    .left_info h1{
+        font-size: 30px;
+    }
+    .right_form .accept button {
+        padding: 10px 10px 10px 10px;
+    }
+    .right_bar {
+        height: 40px;
+        padding-top: 0;
+        line-height: 10px;
+    }
+}
