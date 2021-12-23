@@ -119,6 +119,25 @@ body {
     }
 }
 
+@media (max-width:510px) {
+    .geral {
+        flex-direction: column;
+    }
+    .left_info {
+        justify-content: center;
+        align-items: center;
+        margin-left: 30px;
+    }
+    .right {
+        flex: 2;
+        justify-content: flex-start;
+    }
+    .right_form .accept p {
+        padding-left: 10px;
+        padding-right: 15px;
+    }
+}
+
 @media (max-width:425px) {
     .geral {
         height: auto;

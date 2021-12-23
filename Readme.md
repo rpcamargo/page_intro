@@ -1,1 +1,1 @@
-Projeto desenvolvido com base em desafio do site Frontend Mentor de nível iniciante.
+Projeto de uma página de produto desenvolvido com base em desafio do site Frontend Mentor de nível iniciante.
