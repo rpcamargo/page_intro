@@ -10,7 +10,7 @@ Versâo desktop
 
 Versâo mobile
 <p>
-    <img src="/assets/design/mobile-design.jpg" width="500" height="400" title="Versão mobile">
+    <img src="/assets/design/mobile-design.jpg" width="350" height="400" title="Versão mobile">
 </p>
 
 
@@ -18,10 +18,10 @@ E agora as telas recriadas:
 
 Versâo desktop
 <p>
-    <img src="/assets/design/my_desktop_version" width="350" title="Versão desktop">
+    <img src="/assets/design/my_desktop_version.jpg" width="350" title="Versão desktop">
 </p>
 
 Versâo mobile
 <p>
-    <img src="/assets/design/my_mobile_version" width="500" height="400" title="Versão mobile">
+    <img src="/assets/design/my_mobile_version.jpg" width="350" height="400" title="Versão mobile">
 </p>
